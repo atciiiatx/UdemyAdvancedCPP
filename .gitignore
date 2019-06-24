@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+AdvancedCPP/.vs/
+AdvancedCPP/03ExceptionsBasics/Debug/
+AdvancedCPP/03ExceptionsBasics/x64/Debug/
+AdvancedCPP/04StandardExceptions/x64/
+AdvancedCPP/05CustomExceptions/x64/
+AdvancedCPP/06ExceptionCatchingOrder/x64/
