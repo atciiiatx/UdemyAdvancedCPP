@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10StructsAndPadding.cpp">
+    <ClCompile Include="010StructsAndPadding.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

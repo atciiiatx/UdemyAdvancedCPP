@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06ExceptionCatchingOrder.cpp">
+    <ClCompile Include="006ExceptionCatchingOrder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
