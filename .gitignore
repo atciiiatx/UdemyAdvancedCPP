@@ -39,3 +39,6 @@ AdvancedCPP/06ExceptionCatchingOrder/x64/
 AdvancedCPP/07WritingTextFiles/x64/
 AdvancedCPP/08ReadingTextFiles/x64/
 AdvancedCPP/09ParsingTextFiles/x64/
+AdvancedCPP/10StructsAndPadding/x64/
+AdvancedCPP/11BinaryFileIO/x64/
+AdvancedCPP/11BinaryFileIO/test.bin
